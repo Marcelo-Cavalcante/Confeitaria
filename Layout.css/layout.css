@@ -21,6 +21,7 @@ header {
     width: 180px;
 }
 
+/* Menu */
 
 ul {
     list-style-type: none;
@@ -44,6 +45,8 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
+/* Cards */
 
 #banner {
     display: flex;
@@ -104,10 +107,9 @@ button {
     transition: background-color 0.3s ease;
 }
 
-footer {
-    /* flex-direction: row; */
-    /* justify-content: center; */
-    /* align-items: center; */
+/* Rodapé */
+
+footer {    
     width: 100%;
     padding: 30px 0px;
     background-color: rgb(255, 200, 240);
